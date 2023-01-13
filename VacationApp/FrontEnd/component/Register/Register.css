@@ -1,0 +1,19 @@
+.icon-img{
+    width:400px;
+    height: 400px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+
+}
+.uiImg
+{
+    margin-left: 120px;
+    margin-top: 180px;
+    opacity: 0.6;
+}
+.container
+{
+    background-color: #F8F8FF;
+    display: flex;
+    height: 850px;
+}
